@@ -1,1 +1,1 @@
-# Power-of-Data-science __/(O-O)\__
+# Power-of-Data-science \_(^O^)_/
