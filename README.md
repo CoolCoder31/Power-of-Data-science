@@ -1,1 +1,1 @@
-# Power-of-Data-science \_(^O^)_/
+# Power-of-Data-science - \_(^O^)_/
